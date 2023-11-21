@@ -1,4 +1,4 @@
-Program will take an organized container of files and sort them based of their created date.
+Program will take an unorganized container of files and sort them based of their created date.
 Organized into folders based on Year > Month 
 Useful to organize pictures
 
